@@ -1,0 +1,137 @@
+
+
+.box1 {
+    background-color: powderblue;
+    border-radius: 25px;
+    color: black;
+    border: 1px solid black;
+    text-align: left;
+    margin: 20px;
+    padding: 5px;
+        height: 100px;
+width: 350px;
+    top: -68px;
+    left: 200px;
+    position: relative;
+    display: list-item;
+  }
+  .box2 {
+    background-color: powderblue;
+    border-radius: 25px;
+    color: black;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 5px;
+    height: 100px;
+    width: 350px;
+    top: -198px;
+    left: 600px;
+    position: relative;
+    text-align: left;
+
+  }
+  .box3 {
+    background-color: powderblue;
+    border-radius: 25px;
+    color: black;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 5px;
+    height: 100px;
+width: 350px;
+text-align: left;
+
+    top: -330px;
+    left: 1000px;
+    position: relative;
+  }
+  .box4 {
+    background-color: powderblue;
+    border-radius: 25px;
+    color: black;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 5px;
+    height: 100px;
+    text-align: left;
+
+width: 350px;
+    top: -300px;
+    left: 200px;
+    position: relative;
+  }
+  .box5 {
+    background-color: powderblue;
+    border-radius: 25px;
+    color: black;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 5px;
+    height: 100px;
+width: 350px;
+text-align: left;
+
+    top: -430px;
+    left: 600px;
+    position: relative;
+  }
+  .box6 {
+    background-color: powderblue;
+    border-radius: 25px;
+    color: black;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 5px;
+    height: 100px;
+width: 350px;
+    top: -560px;
+    left: 1000px;
+    position: relative;
+    text-align: left;
+
+  }
+  .box7 {
+    background-color: powderblue;
+    border-radius: 25px;
+    color: black;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 5px;
+    height: 100px;
+width: 350px;
+    top: -530px;
+    left: 200px;
+    position: relative;
+    text-align: left;
+
+  }
+  .box8 {
+    background-color: powderblue;
+    border-radius: 25px;
+    color: black;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 5px;
+    height: 100px;
+width: 350px;
+    top: -660px;
+    left: 600px;
+    text-align: left;
+
+    position: relative;
+  }
+  .box9 {
+    background-color: powderblue;
+    border-radius: 25px;
+    color: black;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 5px;
+    height: 100px;
+    text-align: left;
+width: 350px;
+    top: -790px;
+    left: 1000px; 
+    position: relative;
+  }
+  

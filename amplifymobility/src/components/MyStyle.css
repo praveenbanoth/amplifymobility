@@ -1,0 +1,56 @@
+/* .primary{
+    color: red;
+}
+.font-xl{
+   font-size:75px;
+} */
+
+.style1
+{
+  color: white;
+  line-height: 15px;
+  /* padding: -50px; */
+}
+.sidenav {
+    height: 100%; 
+    width: 200px; 
+    text-align: left;
+    position: fixed; 
+    z-index: 1; 
+    top: 0; 
+    left: 0;
+    background-color: rgba(49, 48, 48, 0.972); 
+    overflow-x: hidden; 
+     padding-top: 30px; 
+       line-height: 10px;
+
+  }
+  
+  /* The navigation menu links */
+  .sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 15px;
+    color: #efeff3;
+    display: block;
+    line-height: 10px;
+
+  }
+  
+  /* When you mouse over the navigation links, change their color */
+  .sidenav a:hover {
+    color: #0aa7f0;
+  }
+  
+  /* Style page content */
+  .main {
+    margin-left: 200px; 
+     padding: 0px 100px; 
+  }
+  
+  /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: -15px;}
+    .sidenav a {font-size: 18px;}
+  }
+  

@@ -1,0 +1,11 @@
+.imagesize{
+    height: 5%; 
+    width: 9.5px; 
+    position: fixed; 
+    z-index: 1; 
+    top: 100%; 
+    left: 0;
+    background-color: #111; 
+    overflow-x: hidden; 
+    padding-top: 5px;
+}
